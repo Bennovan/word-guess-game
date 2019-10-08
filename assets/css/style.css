@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg);
+}
+
+header {
+  border: 3px solid;
+  border-color: black;
+  background-color: darkslategrey;
+  background-image: url(https://usercontent1.hubstatic.com/14434670_f520.jpg);
+  font-size: 20px;
+  margin: 15px auto;
+  text-align: center;
+  height: 500px;
+  width: 75%;
+}
+
+.underscore {
+  border: 3px solid;
+  border-color: black;
+  font-size: 30px;
+  margin: 15px auto;
+  text-align: center;
+  height: 150px;
+  width: 75%;
+  background-color: darkslategray;
+}
+
+.rightGuess {
+  border: 3px solid;
+  border-color: black;
+  font-size: 20px;
+  margin: 15px auto;
+  text-align: center;
+  height: 150px;
+  width: 75%;
+  background-color: darkslategray;
+}
+
+.wrongGuess {
+  border: 3px solid;
+  border-color: black;
+  font-size: 20px;
+  margin: 15px auto;
+  text-align: center;
+  height: 150px;
+  width: 75%;
+  background-color: darkslategray;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 25px;
+  font-weight: bolder;
+  color: blue;
+  font-style: initial;
+}
